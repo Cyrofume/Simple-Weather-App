@@ -1,6 +1,6 @@
 ##modules
 import os
-from dotenv import load_dotenv, dotenv_values
+from dotenv import load_dotenv #handles .env
 import sys #handles system variables
 import PyQt5.Qt
 import PyQt5.QtWidgets
